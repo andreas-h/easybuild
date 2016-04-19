@@ -36,7 +36,7 @@ modified by a particular pull request to the `easybuild-easyconfigs GitHub repos
 open or not).
 
 This can be useful to use easyconfig files that are not available yet in the active EasyBuild installation,
-or to test new contributions by combining ``--from-pr`` with ``-upload-test-report`` (see
+or to test new contributions by combining ``--from-pr`` with ``--upload-test-report`` (see
 https://github.com/hpcugent/easybuild/wiki/Review-process-for-contributions#automated-testing-of-easyconfigs-pull-requests
 ).
 
